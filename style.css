@@ -17,10 +17,10 @@ main {
     margin: 0 auto;
 }
 
-#productos {
+.productos {
     background-color: lightgreen;
 }
 
-#listaCompra {
+.listaCompra {
     background-color: lightsalmon;
 }
